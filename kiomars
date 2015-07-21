@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Kiomars Moradi</p>
+			<a href="www.kiomarsmoradi.com"><p id="email">moradikiomars@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>To take a position as a software engineer student.</p>
+			<h4>Summary of Qualifications</h4>
+			<p>Over fifteen years of professional experience as director and manager 
+Proficient technological and computer skills, video and digital photography using Microsoft Word, PowerPoint, Photoshop
+Positive attitude and disciplined learner, able to communicate effectively in English and Persian, able to prioritize and complete large scale projects, Team worker</p>
+			<ul>
+				<li>Designed and implemented end-user features for Flagship Product</li>
+				<li>Wrote third-party JavaScript and Ruby libraries</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Languages: speaking English, Persian</p>
+			<p>Frameworks: Microsoft word, PowerPoint, Photoshop</p>
+			<h4>Education</h4>
+			<p>Harmony Learning Center, Maplewood, MN, ESL 2011-2013</p>
+			<p>Art University of Iran, Tehran, MFA/ Directing Theater, 2001</p>
+			<ul>
+				<li>Award from ArtPrize Organized International for projrct "Love Letters from the Ocean", 2015</li>
+				<li>Metropolitan regional Arts Council, Art Activities Support for "Love Letters from the Middle East" 2013</li>
+				<li>Minnesota State Arts Board, Artist Initiative Grand for "The Skyless City", 2011</li>
+			</ul>
+		</div>
+		<div id="footer">
+			<p>26 West 10th Street APT#903, Saint Paul, Minnesota 55102 | Tel: (651) 239-2686</p>
+		</div>
+	</body>
+</html>
